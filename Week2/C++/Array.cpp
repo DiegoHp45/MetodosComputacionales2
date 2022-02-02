@@ -28,6 +28,13 @@ int main(){ // funcion principañ
 		}
 		//else
         }
+
+	int i = 0;
+	while ( i < 10){
+		std::cout << i << std:endl;
+		i++ ;
+	}
+
 	//<< operador de redireccionamiento
 
 
